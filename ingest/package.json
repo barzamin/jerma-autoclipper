@@ -1,0 +1,16 @@
+{
+  "name": "ingest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.10.0"
+  },
+  "devDependencies": {
+    "why-is-node-running": "^2.2.2"
+  }
+}
